@@ -1,0 +1,1141 @@
+//{
+//  "data": {
+//    "filteredSuggestions": [
+//      {
+//        "category": "Cr\u00e8merie et Produits laitiers",
+//        "filterKey": "product.categories.name",
+//        "text": "Oeufs",
+//        "highlighted": "\u003Cem\u003EOeufs\u003C\/em\u003E",
+//        "matches": "oeufs",
+//        "link": "\/s?q=oeufs\u0026filters%5Bproduct.categories.name%5D=Cr%C3%A8merie%20et%20Produits%20laitiers"
+//      },
+//      {
+//        "category": "Charcuterie et Traiteur",
+//        "filterKey": "product.categories.name",
+//        "text": "P\u00e2tes Fra\u00eeches Tagliatelles Aux Oeufs Frais CRF ORIGINAL",
+//        "highlighted": "P\u00e2tes Fra\u00eeches Tagliatelles Aux \u003Cem\u003EOeufs\u003C\/em\u003E Frais CRF ORIGINAL",
+//        "matches": "oeufs",
+//        "link": "\/s?q=oeufs\u0026filters%5Bproduct.categories.name%5D=Charcuterie%20et%20Traiteur"
+//      },
+//      {
+//        "category": "Produits r\u00e9gionaux et locaux",
+//        "filterKey": "product.categories.name",
+//        "text": "\u0152ufs Calibre Gros BABY COQUE",
+//        "highlighted": "\u003Cem\u003E\u0152ufs\u003C\/em\u003E Calibre Gros BABY COQUE",
+//        "matches": "\u0153ufs",
+//        "link": "\/s?q=%C5%93ufs\u0026filters%5Bproduct.categories.name%5D=Produits%20r%C3%A9gionaux%20et%20locaux"
+//      },
+//      {
+//        "category": "Produits du monde",
+//        "filterKey": "product.categories.name",
+//        "text": "\u0153uf ",
+//        "highlighted": "\u003Cem\u003E\u0153uf\u003C\/em\u003E",
+//        "matches": "\u0153uf",
+//        "link": "\/s?q=%C5%93uf\u0026filters%5Bproduct.categories.name%5D=Produits%20du%20monde"
+//      },
+//      {
+//        "category": "Epicerie sucr\u00e9e",
+//        "filterKey": "product.categories.name",
+//        "text": "Cake aux fruits et oeufs frais ERTE",
+//        "highlighted": "Cake aux fruits et \u003Cem\u003Eoeufs\u003C\/em\u003E frais ERTE",
+//        "matches": "oeufs",
+//        "link": "\/s?q=oeufs\u0026filters%5Bproduct.categories.name%5D=Epicerie%20sucr%C3%A9e"
+//      }
+//    ],
+//    "suggestions": [
+//      {
+//        "highlighted": "\u003Cem\u003EOeufs\u003C\/em\u003E",
+//        "text": "Oeufs",
+//        "link": "\/s?q=Oeufs"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003E\u0152ufs\u003C\/em\u003E",
+//        "text": "\u0152ufs",
+//        "link": "\/s?q=%C5%92ufs"
+//      },
+//      {
+//        "highlighted": "Cr\u00e8me Aux \u003Cem\u003E\u0152ufs\u003C\/em\u003E",
+//        "text": "Cr\u00e8me Aux \u0152ufs",
+//        "link": "\/s?q=Cr%C3%A8me%20Aux%20%C5%92ufs"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003E\u0152ufs\u003C\/em\u003E Bio",
+//        "text": "\u0152ufs Bio",
+//        "link": "\/s?q=%C5%92ufs%20Bio"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003E\u0152ufs\u003C\/em\u003E Calibre Gros BABY COQUE",
+//        "text": "\u0152ufs Calibre Gros BABY COQUE",
+//        "link": "\/s?q=%C5%92ufs%20Calibre%20Gros%20BABY%20COQUE"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003E\u0152ufs\u003C\/em\u003E de Plein Air",
+//        "text": "\u0152ufs de Plein Air",
+//        "link": "\/s?q=%C5%92ufs%20de%20Plein%20Air"
+//      },
+//      {
+//        "highlighted": "Pocheuse \u00e0 \u003Cem\u003E\u0153uf\u003C\/em\u003E",
+//        "text": "Pocheuse \u00e0 \u0153uf",
+//        "link": "\/s?q=Pocheuse%20%C3%A0%20%C5%93uf"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003EOeuf\u003C\/em\u003E Vibrant Joyful Bleu PLAY\u0026LOVE",
+//        "text": "Oeuf Vibrant Joyful Bleu PLAY\u0026LOVE",
+//        "link": "\/s?q=Oeuf%20Vibrant%20Joyful%20Bleu%20PLAY%26LOVE"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003EOeuf\u003C\/em\u003E Vibrant",
+//        "text": "Oeuf Vibrant",
+//        "link": "\/s?q=Oeuf%20Vibrant"
+//      },
+//      {
+//        "highlighted": "\u003Cem\u003EOeuf\u003C\/em\u003E Vibrant Joyful Violet PLAY\u0026LOVE",
+//        "text": "Oeuf Vibrant Joyful Violet PLAY\u0026LOVE",
+//        "link": "\/s?q=Oeuf%20Vibrant%20Joyful%20Violet%20PLAY%26LOVE"
+//      }
+//    ],
+//    "meta": {
+//      "autocorrect": null,
+//      "keyword": "oeuf",
+//      "searchType": "",
+//      "allStoreLink": "\/s?q=oeuf"
+//    },
+//    "products": [
+//      {
+//        "type": "product",
+//        "id": "product-3270190205685",
+//        "attributes": {
+//          "ean": "3270190205685",
+//          "cdbase": "1109678",
+//          "title": "\u0152ufs plein air CARREFOUR ORIGINAL",
+//          "brand": null,
+//          "slug": "oeufs-plein-air-carrefour-original",
+//          "businessType": "food",
+//          "offerServiceId": "0261-150-6",
+//          "uri": "cremerie\/oeufs",
+//          "categories": [
+//            {
+//              "id": "36993",
+//              "code": "R00F00SF00",
+//              "slug": "cremerie",
+//              "label": "Cr\u00e8merie et Produits laitiers",
+//              "uri": "cremerie",
+//              "type": "RAYON",
+//              "level": 1,
+//              "sellerId": null
+//            },
+//            {
+//              "id": "28143",
+//              "code": "R00F00SF00",
+//              "slug": "oeufs",
+//              "label": "\u0152ufs",
+//              "uri": "cremerie\/oeufs",
+//              "type": "RAYON",
+//              "level": 2,
+//              "sellerId": null
+//            }
+//          ],
+//          "topCategoryName": "Cr\u00e8merie et Produits laitiers",
+//          "images": {
+//            "formats": {
+//              "largest": "540x540",
+//              "common": [
+//                "43x43",
+//                "200x200",
+//                "540x540",
+//                "1500x1500"
+//              ]
+//            },
+//            "paths": [
+//              "https:\/\/media.carrefour.fr\/medias\/2a9ed054315f34f78283a5725c78576c\/p_FORMAT\/3270190205685-0.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/2556d60a5384361a9460ce8459994573\/p_FORMAT\/3270190205685-3.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/06d2489e91db3d33bc8635c7f2e25e8a\/p_FORMAT\/3270190205685-7.jpg"
+//            ]
+//          },
+//          "isDonation": false,
+//          "isBestSeller": false,
+//          "traceability": null,
+//          "keyFeatures": [],
+//          "moreOffers": {
+//            "count": 0,
+//            "bestOfferId": null,
+//            "bestOfferPrice": null,
+//            "hasNonFoodDeliveryOffer": false,
+//            "withdrawalDelivery": {
+//              "exists": false,
+//              "expressWithdrawalEligibility": {
+//                "global": false,
+//                "inCurrentStore": false
+//              }
+//            },
+//            "hasCarrefourPlus": false
+//          },
+//          "offers": {
+//            "3270190205685": {
+//              "0261-150-6": {
+//                "type": "offer",
+//                "subType": "carrefour",
+//                "id": "0261-150-6",
+//                "attributes": {
+//                  "availability": {
+//                    "indispensable": false,
+//                    "purchasable": true,
+//                    "stopped": false,
+//                    "suspended": false,
+//                    "suspensionReason": null
+//                  },
+//                  "preorder": null,
+//                  "price": {
+//                    "price": 2.95,
+//                    "taxMessage": "",
+//                    "unitOfMeasure": "U",
+//                    "perUnit": 0.25,
+//                    "perUnitLabel": "0.25 \u20ac \/ U"
+//                  },
+//                  "ordering": {
+//                    "min": 1,
+//                    "step": 1,
+//                    "max": 50
+//                  },
+//                  "offerServiceId": "0261-150-6",
+//                  "highlightLabel": {
+//                    "type": "promotion",
+//                    "key": "product.label.promotion"
+//                  },
+//                  "freshness": {
+//                    "value": 7,
+//                    "period": "day"
+//                  },
+//                  "marketplace": null,
+//                  "ean": "3270190205685",
+//                  "promotion": {
+//                    "type": "ri",
+//                    "label": "Le 2\u00e8me \u00e0 -30%",
+//                    "message": "promotion.ri",
+//                    "isLoyalty": false,
+//                    "isPromo": false,
+//                    "isPrixBarre": false,
+//                    "isPrixForce": false,
+//                    "isVuEnCatalogue": false,
+//                    "isCrescendo": false,
+//                    "isClubActive": false,
+//                    "bestQuantity": 2,
+//                    "messageArgs": {
+//                      "quantity": 2,
+//                      "discountAmount": 0.89,
+//                      "discountedPrice": 5.01,
+//                      "initialPrice": 5.9,
+//                      "discountedPricePerUnit": null,
+//                      "startDate": "2024-06-10T00:00:00+0200",
+//                      "endDate": "2024-06-26T23:59:00+0200"
+//                    },
+//                    "promoStartDate": "2024-06-10T00:00:00+0200",
+//                    "promoEndDate": "2024-06-26T23:59:00+0200",
+//                    "mixableGtins": [],
+//                    "isPriceAlreadyDiscounted": true,
+//                    "mandateId": [
+//                      "1120240000040299"
+//                    ]
+//                  },
+//                  "promotions": [
+//                    {
+//                      "type": "ri",
+//                      "label": "Le 2\u00e8me \u00e0 -30%",
+//                      "message": "promotion.ri",
+//                      "isLoyalty": false,
+//                      "isPromo": false,
+//                      "isPrixBarre": false,
+//                      "isPrixForce": false,
+//                      "isVuEnCatalogue": false,
+//                      "isCrescendo": false,
+//                      "isClubActive": false,
+//                      "bestQuantity": 2,
+//                      "messageArgs": {
+//                        "quantity": 2,
+//                        "discountAmount": 0.89,
+//                        "discountedPrice": 5.01,
+//                        "initialPrice": 5.9,
+//                        "discountedPricePerUnit": null,
+//                        "startDate": "2024-06-10T00:00:00+0200",
+//                        "endDate": "2024-06-26T23:59:00+0200"
+//                      },
+//                      "promoStartDate": "2024-06-10T00:00:00+0200",
+//                      "promoEndDate": "2024-06-26T23:59:00+0200",
+//                      "mixableGtins": [],
+//                      "isPriceAlreadyDiscounted": true,
+//                      "mandateId": [
+//                        "1120240000040299"
+//                      ]
+//                    }
+//                  ],
+//                  "variableWeight": false,
+//                  "expressWithdrawalEligibility": {
+//                    "global": false,
+//                    "inCurrentStore": false
+//                  },
+//                  "isNonFoodDelivery": false,
+//                  "isRelayPointEligible": false,
+//                  "description": null,
+//                  "shopReturnPolicy": null,
+//                  "bundle": {
+//                    "label": null
+//                  },
+//                  "isNew": false,
+//                  "isInnovation": false,
+//                  "isAlternativeCheaper": false,
+//                  "isDigitalCard": false,
+//                  "isWholesale": false,
+//                  "isClcv": false,
+//                  "isZiqy": false,
+//                  "isHealthy": false,
+//                  "isPhysicalStoreOffer": false,
+//                  "isExpressDelivery": false,
+//                  "isRecoverable": false,
+//                  "guarantees": []
+//                },
+//                "meta": {
+//                  "cta": "buy"
+//                },
+//                "links": {
+//                  "self": ""
+//                }
+//              }
+//            }
+//          },
+//          "packaging": "la boite de 12",
+//          "deliveryModalities": [],
+//          "flags": [],
+//          "clubs": [],
+//          "origin": "",
+//          "format": "12 \u0153ufs",
+//          "nutriscore": {
+//            "value": "A",
+//            "source": "",
+//            "licence": ""
+//          },
+//          "customerReviews": {
+//            "average": 4.67,
+//            "count": 400,
+//            "rates": null
+//          },
+//          "variants": [],
+//          "weightsAndMeasures": [],
+//          "guarantee_general_document": "https:\/\/static-cms.carrefour.fr\/sites\/default\/files\/documents\/garanties-carrefour-plus-document-information-cgv.pdf"
+//        },
+//        "relationships": {
+//          "substitution": null
+//        },
+//        "meta": {
+//          "recommendation": null,
+//          "cta": "buy",
+//          "features": {
+//            "deletable": false,
+//            "swap": false,
+//            "feedback": false,
+//            "freshness": false
+//          }
+//        },
+//        "links": {
+//          "self": "\/p\/oeufs-plein-air-carrefour-original-3270190205685",
+//          "reviews": "\/product\/3270190205685\/reviews"
+//        }
+//      },
+//      {
+//        "type": "product",
+//        "id": "product-3560070392742",
+//        "attributes": {
+//          "ean": "3560070392742",
+//          "cdbase": "3856886",
+//          "title": "\u0152ufs frais",
+//          "brand": null,
+//          "slug": "oeufs-frais",
+//          "businessType": "food",
+//          "offerServiceId": "0261-150-6",
+//          "uri": "cremerie\/oeufs",
+//          "categories": [
+//            {
+//              "id": "36993",
+//              "code": "R00F00SF00",
+//              "slug": "cremerie",
+//              "label": "Cr\u00e8merie et Produits laitiers",
+//              "uri": "cremerie",
+//              "type": "RAYON",
+//              "level": 1,
+//              "sellerId": null
+//            },
+//            {
+//              "id": "28143",
+//              "code": "R00F00SF00",
+//              "slug": "oeufs",
+//              "label": "\u0152ufs",
+//              "uri": "cremerie\/oeufs",
+//              "type": "RAYON",
+//              "level": 2,
+//              "sellerId": null
+//            }
+//          ],
+//          "topCategoryName": "Cr\u00e8merie et Produits laitiers",
+//          "images": {
+//            "formats": {
+//              "largest": "540x540",
+//              "common": [
+//                "43x43",
+//                "200x200",
+//                "540x540",
+//                "1500x1500"
+//              ]
+//            },
+//            "paths": [
+//              "https:\/\/media.carrefour.fr\/medias\/53b8654d7e5a3f34a8e2c7f826119790\/p_FORMAT\/3560070392742-photosite-20210716-175421-0.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/efac5db190573b6aac09e0f9156459af\/p_FORMAT\/3560070392742-photosite-20210716-175421-3.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/815ecd399e643a7aadb663207919b2ca\/p_FORMAT\/3560070392742-photosite-20210716-175422-7.jpg"
+//            ]
+//          },
+//          "isDonation": false,
+//          "isBestSeller": false,
+//          "traceability": null,
+//          "keyFeatures": [],
+//          "moreOffers": {
+//            "count": 0,
+//            "bestOfferId": null,
+//            "bestOfferPrice": null,
+//            "hasNonFoodDeliveryOffer": false,
+//            "withdrawalDelivery": {
+//              "exists": false,
+//              "expressWithdrawalEligibility": {
+//                "global": false,
+//                "inCurrentStore": false
+//              }
+//            },
+//            "hasCarrefourPlus": false
+//          },
+//          "offers": {
+//            "3560070392742": {
+//              "0261-150-6": {
+//                "type": "offer",
+//                "subType": "carrefour",
+//                "id": "0261-150-6",
+//                "attributes": {
+//                  "availability": {
+//                    "indispensable": false,
+//                    "purchasable": true,
+//                    "stopped": false,
+//                    "suspended": false,
+//                    "suspensionReason": null
+//                  },
+//                  "preorder": null,
+//                  "price": {
+//                    "price": 1.65,
+//                    "taxMessage": "",
+//                    "unitOfMeasure": "U",
+//                    "perUnit": 0.16,
+//                    "perUnitLabel": "0.16 \u20ac \/ U"
+//                  },
+//                  "ordering": {
+//                    "min": 1,
+//                    "step": 1,
+//                    "max": 50
+//                  },
+//                  "offerServiceId": "0261-150-6",
+//                  "highlightLabel": null,
+//                  "freshness": {
+//                    "value": 7,
+//                    "period": "day"
+//                  },
+//                  "marketplace": null,
+//                  "ean": "3560070392742",
+//                  "promotion": null,
+//                  "promotions": [],
+//                  "variableWeight": false,
+//                  "expressWithdrawalEligibility": {
+//                    "global": false,
+//                    "inCurrentStore": false
+//                  },
+//                  "isNonFoodDelivery": false,
+//                  "isRelayPointEligible": false,
+//                  "description": null,
+//                  "shopReturnPolicy": null,
+//                  "bundle": {
+//                    "label": null
+//                  },
+//                  "isNew": false,
+//                  "isInnovation": false,
+//                  "isAlternativeCheaper": false,
+//                  "isDigitalCard": false,
+//                  "isWholesale": false,
+//                  "isClcv": false,
+//                  "isZiqy": true,
+//                  "isHealthy": false,
+//                  "isPhysicalStoreOffer": false,
+//                  "isExpressDelivery": false,
+//                  "isRecoverable": false,
+//                  "guarantees": []
+//                },
+//                "meta": {
+//                  "cta": "buy"
+//                },
+//                "links": {
+//                  "self": ""
+//                }
+//              }
+//            }
+//          },
+//          "packaging": "la boite de 10",
+//          "deliveryModalities": [],
+//          "flags": [],
+//          "clubs": [],
+//          "origin": "",
+//          "format": "10 \u0153ufs",
+//          "nutriscore": {
+//            "value": "A",
+//            "source": "",
+//            "licence": ""
+//          },
+//          "customerReviews": {
+//            "average": 4.27,
+//            "count": 530,
+//            "rates": null
+//          },
+//          "variants": [],
+//          "weightsAndMeasures": [],
+//          "guarantee_general_document": "https:\/\/static-cms.carrefour.fr\/sites\/default\/files\/documents\/garanties-carrefour-plus-document-information-cgv.pdf"
+//        },
+//        "relationships": {
+//          "substitution": null
+//        },
+//        "meta": {
+//          "recommendation": null,
+//          "cta": "buy",
+//          "features": {
+//            "deletable": false,
+//            "swap": false,
+//            "feedback": false,
+//            "freshness": false
+//          }
+//        },
+//        "links": {
+//          "self": "\/p\/oeufs-frais-3560070392742",
+//          "reviews": "\/product\/3560070392742\/reviews"
+//        }
+//      },
+//      {
+//        "type": "product",
+//        "id": "product-3270190205678",
+//        "attributes": {
+//          "ean": "3270190205678",
+//          "cdbase": "1109385",
+//          "title": "\u0152ufs frais poules plein air CARREFOUR ORIGINAL",
+//          "brand": null,
+//          "slug": "oeufs-frais-poules-plein-air-carrefour-original",
+//          "businessType": "food",
+//          "offerServiceId": "0261-150-6",
+//          "uri": "cremerie\/oeufs",
+//          "categories": [
+//            {
+//              "id": "36993",
+//              "code": "R00F00SF00",
+//              "slug": "cremerie",
+//              "label": "Cr\u00e8merie et Produits laitiers",
+//              "uri": "cremerie",
+//              "type": "RAYON",
+//              "level": 1,
+//              "sellerId": null
+//            },
+//            {
+//              "id": "28143",
+//              "code": "R00F00SF00",
+//              "slug": "oeufs",
+//              "label": "\u0152ufs",
+//              "uri": "cremerie\/oeufs",
+//              "type": "RAYON",
+//              "level": 2,
+//              "sellerId": null
+//            }
+//          ],
+//          "topCategoryName": "Cr\u00e8merie et Produits laitiers",
+//          "images": {
+//            "formats": {
+//              "largest": "540x540",
+//              "common": [
+//                "43x43",
+//                "200x200",
+//                "540x540",
+//                "1500x1500"
+//              ]
+//            },
+//            "paths": [
+//              "https:\/\/media.carrefour.fr\/medias\/8d90d51d32dc3a7ab37d6f70f3bdd194\/p_FORMAT\/3270190205678-0.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/f3b424883c2f3dad89d9fd1547bcc298\/p_FORMAT\/3270190205678-3.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/0a7e8f65cf493da594702e8436018649\/p_FORMAT\/3270190205678-9.jpg"
+//            ]
+//          },
+//          "isDonation": false,
+//          "isBestSeller": false,
+//          "traceability": null,
+//          "keyFeatures": [],
+//          "moreOffers": {
+//            "count": 0,
+//            "bestOfferId": null,
+//            "bestOfferPrice": null,
+//            "hasNonFoodDeliveryOffer": false,
+//            "withdrawalDelivery": {
+//              "exists": false,
+//              "expressWithdrawalEligibility": {
+//                "global": false,
+//                "inCurrentStore": false
+//              }
+//            },
+//            "hasCarrefourPlus": false
+//          },
+//          "offers": {
+//            "3270190205678": {
+//              "0261-150-6": {
+//                "type": "offer",
+//                "subType": "carrefour",
+//                "id": "0261-150-6",
+//                "attributes": {
+//                  "availability": {
+//                    "indispensable": false,
+//                    "purchasable": true,
+//                    "stopped": false,
+//                    "suspended": false,
+//                    "suspensionReason": null
+//                  },
+//                  "preorder": null,
+//                  "price": {
+//                    "price": 1.55,
+//                    "taxMessage": "",
+//                    "unitOfMeasure": "U",
+//                    "perUnit": 0.26,
+//                    "perUnitLabel": "0.26 \u20ac \/ U"
+//                  },
+//                  "ordering": {
+//                    "min": 1,
+//                    "step": 1,
+//                    "max": 50
+//                  },
+//                  "offerServiceId": "0261-150-6",
+//                  "highlightLabel": null,
+//                  "freshness": {
+//                    "value": 7,
+//                    "period": "day"
+//                  },
+//                  "marketplace": null,
+//                  "ean": "3270190205678",
+//                  "promotion": null,
+//                  "promotions": [],
+//                  "variableWeight": false,
+//                  "expressWithdrawalEligibility": {
+//                    "global": false,
+//                    "inCurrentStore": false
+//                  },
+//                  "isNonFoodDelivery": false,
+//                  "isRelayPointEligible": false,
+//                  "description": null,
+//                  "shopReturnPolicy": null,
+//                  "bundle": {
+//                    "label": null
+//                  },
+//                  "isNew": false,
+//                  "isInnovation": false,
+//                  "isAlternativeCheaper": false,
+//                  "isDigitalCard": false,
+//                  "isWholesale": false,
+//                  "isClcv": false,
+//                  "isZiqy": true,
+//                  "isHealthy": false,
+//                  "isPhysicalStoreOffer": false,
+//                  "isExpressDelivery": false,
+//                  "isRecoverable": false,
+//                  "guarantees": []
+//                },
+//                "meta": {
+//                  "cta": "buy"
+//                },
+//                "links": {
+//                  "self": ""
+//                }
+//              }
+//            }
+//          },
+//          "packaging": "la boite de 6",
+//          "deliveryModalities": [],
+//          "flags": [],
+//          "clubs": [],
+//          "origin": "",
+//          "format": "6 \u0153ufs",
+//          "nutriscore": {
+//            "value": "A",
+//            "source": "",
+//            "licence": ""
+//          },
+//          "customerReviews": {
+//            "average": 4.48,
+//            "count": 504,
+//            "rates": null
+//          },
+//          "variants": [],
+//          "weightsAndMeasures": [],
+//          "guarantee_general_document": "https:\/\/static-cms.carrefour.fr\/sites\/default\/files\/documents\/garanties-carrefour-plus-document-information-cgv.pdf"
+//        },
+//        "relationships": {
+//          "substitution": null
+//        },
+//        "meta": {
+//          "recommendation": null,
+//          "cta": "buy",
+//          "features": {
+//            "deletable": false,
+//            "swap": false,
+//            "feedback": false,
+//            "freshness": false
+//          }
+//        },
+//        "links": {
+//          "self": "\/p\/oeufs-frais-poules-plein-air-carrefour-original-3270190205678",
+//          "reviews": "\/product\/3270190205678\/reviews"
+//        }
+//      },
+//      {
+//        "type": "product",
+//        "id": "product-3560071098292",
+//        "attributes": {
+//          "ean": "3560071098292",
+//          "cdbase": "6557620",
+//          "title": "\u0152ufs frais poules au sol CARREFOUR CLASSIC\u0027",
+//          "brand": null,
+//          "slug": "oeufs-frais-poules-au-sol-carrefour-classic",
+//          "businessType": "food",
+//          "offerServiceId": "0261-150-6",
+//          "uri": "cremerie\/oeufs",
+//          "categories": [
+//            {
+//              "id": "36993",
+//              "code": "R00F00SF00",
+//              "slug": "cremerie",
+//              "label": "Cr\u00e8merie et Produits laitiers",
+//              "uri": "cremerie",
+//              "type": "RAYON",
+//              "level": 1,
+//              "sellerId": null
+//            },
+//            {
+//              "id": "28143",
+//              "code": "R00F00SF00",
+//              "slug": "oeufs",
+//              "label": "\u0152ufs",
+//              "uri": "cremerie\/oeufs",
+//              "type": "RAYON",
+//              "level": 2,
+//              "sellerId": null
+//            }
+//          ],
+//          "topCategoryName": "Cr\u00e8merie et Produits laitiers",
+//          "images": {
+//            "formats": {
+//              "largest": "540x540",
+//              "common": [
+//                "43x43",
+//                "200x200",
+//                "540x540",
+//                "1500x1500"
+//              ]
+//            },
+//            "paths": [
+//              "https:\/\/media.carrefour.fr\/medias\/0ad44a78ae3935f0a3da7f8babc0f4bb\/p_FORMAT\/3560071098292-0.jpg",
+//              "https:\/\/media.carrefour.fr\/medias\/0593039dc4f53c9fb83dce2f0c3b5da9\/p_FORMAT\/3560071098292-3.jpg"
+//            ]
+//          },
+//          "isDonation": false,
+//          "isBestSeller": false,
+//          "traceability": null,
+//          "keyFeatures": [],
+//          "moreOffers": {
+//            "count": 0,
+//            "bestOfferId": null,
+//            "bestOfferPrice": null,
+//            "hasNonFoodDeliveryOffer": false,
+//            "withdrawalDelivery": {
+//              "exists": false,
+//              "expressWithdrawalEligibility": {
+//                "global": false,
+//                "inCurrentStore": false
+//              }
+//            },
+//            "hasCarrefourPlus": false
+//          },
+//          "offers": {
+//            "3560071098292": {
+//              "0261-150-6": {
+//                "type": "offer",
+//                "subType": "carrefour",
+//                "id": "0261-150-6",
+//                "attributes": {
+//                  "availability": {
+//                    "indispensable": false,
+//                    "purchasable": true,
+//                    "stopped": false,
+//                    "suspended": false,
+//                    "suspensionReason": null
+//                  },
+//                  "preorder": null,
+//                  "price": {
+//                    "price": 4.55,
+//                    "taxMessage": "",
+//                    "unitOfMeasure": "U",
+//                    "perUnit": 0.23,
+//                    "perUnitLabel": "0.23 \u20ac \/ U"
+//                  },
+//                  "ordering": {
+//                    "min": 1,
+//                    "step": 1,
+//                    "max": 50
+//                  },
+//                  "offerServiceId": "0261-150-6",
+//                  "highlightLabel": {
+//                    "type": "club",
+//                    "key": "flag.club.family"
+//                  },
+//                  "freshness": {
+//                    "value": 7,
+//                    "period": "day"
+//                  },
+//                  "marketplace": null,
+//                  "ean": "3560071098292",
+//                  "promotion": {
+//                    "type": "rd_fid_market",
+//                    "label": "10% d\u0027\u00e9conomies",
+//                    "message": "promotion.rd_fid_market",
+//                    "isLoyalty": true,
+//                    "isPromo": false,
+//                    "isPrixBarre": false,
+//                    "isPrixForce": false,
+//                    "isVuEnCatalogue": false,
+//                    "isCrescendo": false,
+//                    "isClubActive": true,
+//                    "bestQuantity": 1,
+//                    "messageArgs": {
+//                      "quantity": 1,
+//                      "discountAmount": 0.46,
+//                      "discountedPrice": 4.55,
+//                      "initialPrice": 4.55,
+//                      "discountedPricePerUnit": null,
+//                      "startDate": "2023-01-01T00:00:00+0100",
+//                      "endDate": "2024-12-31T23:59:00+0100"
+//                    },
+//                    "promoStartDate": "2023-01-01T00:00:00+0100",
+//                    "promoEndDate": "2024-12-31T23:59:00+0100",
+//                    "mixableGtins": [],
+//                    "isPriceAlreadyDiscounted": false,
+//                    "mandateId": [
+//                      "1120230000000791"
+//                    ]
+//                  },
+//                  "promotions": [
+//                    {
+//                      "type": "rd_fid_market",
+//                      "label": "10% d\u0027\u00e9conomies",
+//                      "message": "promotion.rd_fid_market",
+//                      "isLoyalty": true,
+//                      "isPromo": false,
+//                      "isPrixBarre": false,
+//                      "isPrixForce": false,
+//                      "isVuEnCatalogue": false,
+//                      "isCrescendo": false,
+//                      "isClubActive": true,
+//                      "bestQuantity": 1,
+//                      "messageArgs": {
+//                        "quantity": 1,
+//                        "discountAmount": 0.46,
+//                        "discountedPrice": 4.55,
+//                        "initialPrice": 4.55,
+//                        "discountedPricePerUnit": null,
+//                        "startDate": "2023-01-01T00:00:00+0100",
+//                        "endDate": "2024-12-31T23:59:00+0100"
+//                      },
+//                      "promoStartDate": "2023-01-01T00:00:00+0100",
+//                      "promoEndDate": "2024-12-31T23:59:00+0100",
+//                      "mixableGtins": [],
+//                      "isPriceAlreadyDiscounted": false,
+//                      "mandateId": [
+//                        "1120230000000791"
+//                      ]
+//                    }
+//                  ],
+//                  "variableWeight": false,
+//                  "expressWithdrawalEligibility": {
+//                    "global": false,
+//                    "inCurrentStore": false
+//                  },
+//                  "isNonFoodDelivery": false,
+//                  "isRelayPointEligible": false,
+//                  "description": null,
+//                  "shopReturnPolicy": null,
+//                  "bundle": {
+//                    "label": null
+//                  },
+//                  "isNew": false,
+//                  "isInnovation": false,
+//                  "isAlternativeCheaper": false,
+//                  "isDigitalCard": false,
+//                  "isWholesale": false,
+//                  "isClcv": false,
+//                  "isZiqy": false,
+//                  "isHealthy": false,
+//                  "isPhysicalStoreOffer": false,
+//                  "isExpressDelivery": false,
+//                  "isRecoverable": false,
+//                  "guarantees": []
+//                },
+//                "meta": {
+//                  "cta": "buy"
+//                },
+//                "links": {
+//                  "self": ""
+//                }
+//              }
+//            }
+//          },
+//          "packaging": "la boite de 20",
+//          "deliveryModalities": [],
+//          "flags": [
+//            "flag.common.gmofree"
+//          ],
+//          "clubs": [
+//            "flag.club.family"
+//          ],
+//          "origin": "",
+//          "format": "20 \u0153ufs",
+//          "nutriscore": {
+//            "value": "A",
+//            "source": "",
+//            "licence": ""
+//          },
+//          "customerReviews": {
+//            "average": 4.37,
+//            "count": 318,
+//            "rates": null
+//          },
+//          "variants": [],
+//          "weightsAndMeasures": [],
+//          "guarantee_general_document": "https:\/\/static-cms.carrefour.fr\/sites\/default\/files\/documents\/garanties-carrefour-plus-document-information-cgv.pdf"
+//        },
+//        "relationships": {
+//          "substitution": null
+//        },
+//        "meta": {
+//          "recommendation": null,
+//          "cta": "buy",
+//          "features": {
+//            "deletable": false,
+//            "swap": false,
+//            "feedback": false,
+//            "freshness": false
+//          }
+//        },
+//        "links": {
+//          "self": "\/p\/oeufs-frais-poules-au-sol-carrefour-classic-3560071098292",
+//          "reviews": "\/product\/3560071098292\/reviews"
+//        }
+//      }
+//    ]
+//  }
+//}
+
+{
+  "type": "product",
+  "id": "product-3560070108558",
+  "attributes": {
+    "ean": "3560070108558",
+    "cdbase": "2262710",
+    "title": "Fromage de Brebis pour apéritif et salade CARREFOUR CLASSIC'",
+    "brand": null,
+    "slug": "fromage-de-brebis-pour-aperitif-et-salade-carrefour-classic",
+    "businessType": "food",
+    "offerServiceId": "0261-150-6",
+    "uri": "cremerie/fromages/mozza-feta-mascarpone/feta",
+    "categories": [
+      {
+        "id": "36993",
+        "code": "R00F00SF00",
+        "slug": "cremerie",
+        "label": "Crèmerie et Produits laitiers",
+        "uri": "cremerie",
+        "type": "RAYON",
+        "level": 1,
+        "sellerId": null
+      },
+      {
+        "id": "36999",
+        "code": "R00F00SF00",
+        "slug": "fromages",
+        "label": "Fromages",
+        "uri": "cremerie/fromages",
+        "type": "RAYON",
+        "level": 2,
+        "sellerId": null
+      },
+      {
+        "id": "28284",
+        "code": "R00F00SF00",
+        "slug": "mozza-feta-mascarpone",
+        "label": "Mozza, Feta et Mascarpone",
+        "uri": "cremerie/fromages/mozza-feta-mascarpone",
+        "type": "RAYON",
+        "level": 3,
+        "sellerId": null
+      },
+      {
+        "id": "28312",
+        "code": "R00F00SF00",
+        "slug": "feta",
+        "label": "Feta",
+        "uri": "cremerie/fromages/mozza-feta-mascarpone/feta",
+        "type": "RAYON",
+        "level": 4,
+        "sellerId": null
+      }
+    ],
+    "topCategoryName": "Crèmerie et Produits laitiers",
+    "images": {
+      "formats": {
+        "largest": "540x540",
+        "common": [
+          "43x43",
+          "200x200",
+          "540x540",
+          "1500x1500"
+        ]
+      },
+      "paths": [
+        "https://media.carrefour.fr/medias/eec852cd3f66380b820be5fe5d9efc1d/p_FORMAT/3560070108558-photosite-20211020-140732-0.jpg",
+        "https://media.carrefour.fr/medias/8f9a17d5bd8133399bf430122cee949c/p_FORMAT/3560070108558-photosite-20211020-140810-2.jpg"
+      ]
+    },
+    "isDonation": false,
+    "isBestSeller": false,
+    "traceability": null,
+    "keyFeatures": [],
+    "moreOffers": {
+      "count": 0,
+      "bestOfferId": null,
+      "bestOfferPrice": null,
+      "hasNonFoodDeliveryOffer": false,
+      "withdrawalDelivery": {
+        "exists": false,
+        "expressWithdrawalEligibility": {
+          "global": false,
+          "inCurrentStore": false
+        }
+      },
+      "hasCarrefourPlus": false
+    },
+    "offers": {
+      "3560070108558": {
+        "0261-150-6": {
+          "type": "offer",
+          "subType": "carrefour",
+          "id": "0261-150-6",
+          "attributes": {
+            "availability": {
+              "indispensable": false,
+              "purchasable": true,
+              "stopped": false,
+              "suspended": false,
+              "suspensionReason": null
+            },
+            "preorder": null,
+            "price": {
+              "price": 2.15,
+              "taxMessage": "",
+              "unitOfMeasure": "KG",
+              "perUnit": 10.75,
+              "perUnitLabel": "10.75 € / KG"
+            },
+            "ordering": {
+              "min": 1,
+              "step": 1,
+              "max": 50
+            },
+            "offerServiceId": "0261-150-6",
+            "highlightLabel": null,
+            "freshness": {
+              "value": 5,
+              "period": "day"
+            },
+            "marketplace": null,
+            "ean": "3560070108558",
+            "promotion": null,
+            "promotions": [],
+            "variableWeight": false,
+            "expressWithdrawalEligibility": {
+              "global": false,
+              "inCurrentStore": false
+            },
+            "isNonFoodDelivery": false,
+            "isRelayPointEligible": false,
+            "description": null,
+            "shopReturnPolicy": null,
+            "bundle": {
+              "label": null
+            },
+            "isNew": false,
+            "isInnovation": false,
+            "isAlternativeCheaper": false,
+            "isDigitalCard": false,
+            "isWholesale": false,
+            "isClcv": false,
+            "isZiqy": false,
+            "isHealthy": false,
+            "isPhysicalStoreOffer": false,
+            "isExpressDelivery": false,
+            "isRecoverable": false,
+            "guarantees": []
+          },
+          "meta": {
+            "cta": "buy"
+          },
+          "links": {
+            "self": ""
+          }
+        }
+      }
+    },
+    "packaging": "le paquet de 200 g",
+    "deliveryModalities": [],
+    "flags": [],
+    "clubs": [],
+    "origin": "",
+    "format": "",
+    "nutriscore": {
+      "value": "D",
+      "source": "",
+      "licence": ""
+    },
+    "customerReviews": {
+      "average": 4.38,
+      "count": 259,
+      "rates": null
+    },
+    "variants": [],
+    "weightsAndMeasures": [],
+    "guarantee_general_document": "https://static-cms.carrefour.fr/sites/default/files/documents/garanties-carrefour-plus-document-information-cgv.pdf"
+  },
+  "relationships": {
+    "substitution": null
+  },
+  "meta": {
+    "recommendation": null,
+    "cta": "buy",
+    "features": {
+      "deletable": false,
+      "swap": false,
+      "feedback": false,
+      "freshness": false
+    }
+  },
+  "links": {
+    "self": "/p/fromage-de-brebis-pour-aperitif-et-salade-carrefour-classic-3560070108558",
+    "reviews": "/product/3560070108558/reviews"
+  }
+}

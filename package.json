@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.3.14",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "fast-csv": "^5.0.1",
+    "ts-node": "^10.9.2"
+  }
+}

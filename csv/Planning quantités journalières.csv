@@ -1,0 +1,56 @@
+aliment,nom,format,prix,prix_unitaire_label,unite,prix_unitaire
+Bananes,Bananes Bio CARREFOUR BIO,les 5 fruits,1.99,1.99 € / U,U,1.99
+Poivrons,Poivrons bicolores SIMPL,le sachet,0.99,3.96 € / KG,KG,3.96
+Oignons,Oignons jaunes SIMPL,le filet de 2Kg,2.49,1.24 € / KG,KG,1.24
+Patates,Pommes de terre SIMPL,le filet d'1Kg,0.99,0.99 € / KG,KG,0.99
+Concombre,Concombre,la pièce,1.19,1.19 € / U,U,1.19
+Haricots rouges,Haricots rouges bio MEME GEORGETTE,le pot de 350g,2.15,4.60 € / KG,KG,4.6
+Lentilles vertes,Lentilles vertes CARREFOUR CLASSIC',le paquet de 500g,1.75,3.50 € / KG,KG,3.5
+Echalottes,Echalotes de Bretagne agroécologie REFLETS DE FRANCE,le filet de 250g,1.49,5.96 € / KG,KG,5.96
+Ail,Tête d'ail,le filet d'une tête,0.99,15.23 € / KG,KG,15.23
+Carottes,Baby Carottes Prêtes à croquer FLORETTE,Le sachet de 250g,2.4,9.60 € / KG,KG,9.6
+Courgettes,Courgettes vrac,le kilo,1.29,1.29 € / KG,KG,1.29
+Mais,Maïs sans sucres ajoutés CARREFOUR CLASSIC',les 3 boites de 140g net égoutté,2.05,4.88 € / KG,KG,4.88
+Persil,Persil plat,la botte,0.99,0.99 € / U,U,0.99
+Coriandre,Coriandre  fraîche,la botte,0.99,0.99 € / U,U,0.99
+Gingembre,Gingembre Bio,la barquette de 200g,1.99,9.95 € / KG,KG,9.95
+Avocat,Avocat,la pièce,1.39,1.39 € / U,U,1.39
+Patates douces,Patates douces vrac,le kilo,2.99,2.99 € / KG,KG,2.99
+Champignons,Champignons bruns Agroécologie FILIERE QUALITE CARREFOUR,la barquette de 200g,1.79,8.95 € / KG,KG,8.95
+Madame Loïc,Tartinable au thon et au fromage fouetté MME LOIK GUYADER,le pot de 120 g,2.99,24.92 € / KG,KG,24.92
+Camembert,Camembert PRESIDENT,la boîte de 250g,1.89,7.56 € / KG,KG,7.56
+Mozza,Mozzarella  CARREFOUR CLASSIC',le sachet de 125g net égoutté,0.99,7.92 € / KG,KG,7.92
+Feta,Fromage de Brebis pour apéritif et salade CARREFOUR CLASSIC',le paquet de 200 g,2.15,10.75 € / KG,KG,10.75
+Crème fraîche,Crème Légère Semi-Épaisse 18% Mg CARREFOUR CLASSIC',les 3 briques de 20cL,2.15,3.58 € / L,L,3.58
+Cheddar,Cheddar CARREFOUR,la barquette de 200g,2.75,13.75 € / KG,KG,13.75
+Parmesan,Parmigiano Reggiano râpé AOP CARREFOUR EXTRA,le sachet de 100g,1.75,17.50 € / KG,KG,17.5
+Pain hot dog,Pains spéciaux Hot Dog nature CARREFOUR CLASSIC',le paquet de 4 - 250g,1.55,6.20 € / KG,KG,6.2
+Pain,Pain de mie complet tranché CARREFOUR CLASSIC',le paquet de 825g,1.69,2.05 € / KG,KG,2.05
+Chocolat patissier,Tablette de chocolat noir NESTLE DESSERT,les 2 tablettes de 205g,4.19,10.22 € / KG,KG,10.22
+Chamallow,Bonbons Chamallows L'Original HARIBO,le paquet de 300g,1.79,5.97 € / KG,KG,5.97
+Riz,Riz Basmati CARREFOUR EXTRA,le paquet d'1Kg,2.55,2.55 € / KG,KG,2.55
+Pâtes,Pâté de campagne,la tranche de 250g,3.99,15.99 € / KG,KG,15.99
+Lentilles,Lentilles vertes CARREFOUR CLASSIC',le paquet de 500g,1.75,3.50 € / KG,KG,3.5
+Riz à risotto,Riz Arborio risotto CARREFOUR EXTRA,le paquet de 500g,1.95,3.90 € / KG,KG,3.9
+Galettes fajitas,Galettes tortillas de blé à garnir CARREFOUR EXOTIQUE,le sachet de 320g,2.05,6.41 € / KG,KG,6.41
+Conserves tomates concassées,Concassé de tomates pelées sans sel ajouté Bio JARDIN BIO ETIC,le pot de 400g,1.69,4.22 € / KG,KG,4.22
+Oignons frits,Oignons frits DUCROS,le flacon de 130g,2.08,16.00 € / KG,KG,16
+Jalapenos,Piment Jalapeno CARREFOUR SENSATION,le bocal de 160g net égoutté,1.99,12.44 € / KG,KG,12.44
+Lait de coco,Lait de coco CARREFOUR SENSATION,la brique de 250mL,1.09,4.36 € / L,L,4.36
+Pâte de curry rouge,Pâte de curry rouge REAL THAI,le pot de 227g,4.79,16.87 € / KG,KG,16.87
+Bouillon Knorr,Bouillon de légumes bio KNORR,les 6 tablettes de 10 g,1.55,22.00 € / KG,KG,22
+Epices guacamole,Epices Guacamole doux OLD EL PASO,Le sachet de 20g,1.15,57.50 € / KG,KG,57.5
+Oeufs,Œufs frais,la boite de 10,1.65,0.16 € / U,U,0.16
+Knacki vege,Knacki végétales HERTA,le paquet de 10 ,3.99,11.40 € / KG,KG,11.4
+Thon,Thon en tranche Albacore,la portion de 300g,8.24,27.49 € / KG,KG,27.49
+Saucisses,Chipolatas supérieures CARREFOUR LE MARCHE,la barquette de 6 - 330g,3.9,11.82 € / KG,KG,11.82
+Brochettes porc,Brochettes de porc nature SOCOPA,la barquette de 360g,5.15,14.31 € / KG,KG,14.31
+Jambon,Jambon Le Supérieur sel réduit CARREFOUR EXTRA,le paquet de 4 tranches - 160g,2.49,15.56 € / KG,KG,15.56
+Steck vege,Steak Veggie Louisiana Spicy Epices Cajun & Oignons CEREAL BIO,la boite de 160g,3.29,20.56 € / KG,KG,20.56
+Poulet,Filets de poulet,la barquette de 1Kg,7.99,7.99 € / KG,KG,7.99
+Haché de bœuf,Viande hachée pur bœuf 5% MG CARREFOUR LE MARCHE,la barquette de 500g,6.79,13.58 € / KG,KG,13.58
+Vin blanc cuisine,Vin Blanc de l'Union Européenne LA VILLAGEOISE,le pack,5.19,3.46 € / L,L,3.46
+Frites,Frites spécial four CARREFOUR CLASSIC',le sachet de 600g,1.25,2.08 € / KG,KG,2.08
+Eponges,Eponges grattantes SIMPL CHOICE,le paquet de 4,0.65,0.16 € / U,U,0.16
+Papier cuisson,Papier cuisson en feuilles ALBAL,la boite de 16 feuilles,2.79,,,
+Charbon de bois,Charbon de bois GRILLOBOIS,l'unité,18.99,,,
