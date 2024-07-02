@@ -1,16 +1,12 @@
-// import {PriceFinder} from "./src/PriceFinder";
-
 import {PriceUpdater} from "./src/PriceUpdater";
+import {CarrefourApiWrapper} from "./src/CarrefourApiWrapper";
+import {SheetProductOut} from "./src/types/SheetProductOut";
+import {Product} from "./src/types/Product";
 
 function updatePricesInCsv() {
     const priceFinder = new PriceUpdater("csv/Planning quantités journalières.csv");
     priceFinder.updatePricesInCsv();
 }
-
-import {CarrefourApiWrapper} from "./src/CarrefourApiWrapper";
-import {CsvParser} from "./src/CsvParser";
-import {SheetProductOut} from "./src/types/SheetProductOut";
-import {Product} from "./src/types/Product";
 
 const carrefour = new CarrefourApiWrapper();
 
@@ -31,8 +27,8 @@ async function getAlimentsPrices(aliments: string[]) {
     console.table(sheetProducts);
 }
 
-function findPricesForOneAliment() {
-    carrefour.getPricesForProductName("fraise", 4).then((products) => console.table(products));
+function findPricesForOneAliment(aliment: string, maxResults: number) {
+    carrefour.getPricesForProductName(aliment, maxResults).then((products) => console.table(products));
 }
 
-findPricesForOneAliment();
+findPricesForOneAliment("bananes", 5);
